@@ -3,9 +3,9 @@
 session_start();
 
 // Database connection configuration
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "database-2.c94k8mya6u71.eu-north-1.rds.amazonaws.com";
+$username = "admin";
+$password = "7QneyP3s7grzzvxNHLft";
 $dbname = "community_management";
 
 // Create connection
