@@ -2,7 +2,7 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: database-2.c94k8mya6u71.eu-north-1.rds.amazonaws.com
+-- Host: 13.60.7.235
 -- Generation Time: Feb 23, 2025 at 02:06 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
