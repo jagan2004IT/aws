@@ -1,6 +1,6 @@
 <?php
 // Database connection configuration
-$servername = "database-2.c94k8mya6u71.eu-north-1.rds.amazonaws.com";
+$servername = "127.0.0.1";
 $username = "admin";
 $password = "7QneyP3s7grzzvxNHLft";
 $dbname = "community_management";
